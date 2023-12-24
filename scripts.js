@@ -9,7 +9,7 @@ img.onload = function(){
 	bridgeCanvas.drawImage(img, 0, 0, bridge.width, bridge.height);
 }
 
-img.src = "chrisbert.jpg"
+img.src = "question.jpeg"
 
 
 function detectLeftButton(event) {
